@@ -6,7 +6,7 @@ import Player from './Pages/Player';
 import History from './Pages/History';
 import Kit from './Pages/Kit';
 import Home from './Pages/Home';
-
+import Footer from './Component/Footer'
 
 const App= ()=> {
   return( 
@@ -20,6 +20,7 @@ const App= ()=> {
         <Route path="/History" element= {<History/>}></Route>
       </Routes>
       </BrowserRouter>
+      <Footer/>
 </div>
   );
 }

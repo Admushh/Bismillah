@@ -59,8 +59,8 @@ const Player =() =>{
 <a href="https://en.wikipedia.org/wiki/Marcus_Rashford" target="_blank" rel="noreferrer"><span><img src={PX16} className="pt-5 rounded transition duration-300 ease-in-out hover:opacity-50"></img></span></a>
 <a href="https://en.wikipedia.org/wiki/Antony_(footballer,_born_2000)" target="_blank" rel="noreferrer"><span><img src={PX17} className="pt-5 rounded transition duration-300 ease-in-out hover:opacity-50"></img></span></a>
 <a href="https://en.wikipedia.org/wiki/Jadon_Sancho" target="_blank" rel="noreferrer"> <span><img src={PX18} className="pt-5 rounded transition duration-300 ease-in-out hover:opacity-50"></img></span></a>
-<a href="https://en.wikipedia.org/wiki/Alejandro_Garnacho" target="_blank" rel="noreferrer"> <span><img src={PX19} className="pt-5 rounded h-[420px] transition duration-300 ease-in-out hover:opacity-50"></img></span></a>
-<a href="https://en.wikipedia.org/wiki/Mason_Greenwood" target="_blank" rel="noreferrer"> <span><img src={PX20} className="pt-5 h-[415px] rounded transition duration-300 ease-in-out hover:opacity-50 "></img></span>
+<a href="https://en.wikipedia.org/wiki/Alejandro_Garnacho" target="_blank" rel="noreferrer"> <span><img src={PX19} className="pt-5 rounded  transition duration-300 ease-in-out hover:opacity-50"></img></span></a>
+<a href="https://en.wikipedia.org/wiki/Mason_Greenwood" target="_blank" rel="noreferrer"> <span><img src={PX20} className="pt-5  rounded transition duration-300 ease-in-out hover:opacity-50 "></img></span>
 </a>
   </span>
 </div>

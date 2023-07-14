@@ -24,7 +24,7 @@ export const Carousel = () => {
       slidesToShow: 1,
       slidesToScroll: 1,
       autoplay: true,
-      autoplaySpeed: 30,
+      autoplaySpeed: 3000,
       width: 500,
       beforeChange: (oldIndex, newIndex) => setCurrentSlide(newIndex),
     };
